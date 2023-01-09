@@ -1,0 +1,31 @@
+body{
+    background-color: #369dcf;
+    color: white;
+}
+.thir{
+    color: white;
+    background-color: #9c0603;
+}
+.thir1{
+    color: white;
+}
+#submit{
+    background-color: #9c0603;
+    border: none;
+    color: white;
+}
+.first{
+    margin-top: 30px;
+    /* margin-left: -45px; */
+    margin-bottom: 10px;
+}
+.second{
+    margin-left: -50px;
+}
+.new{
+    background-color: #9c0603   
+}
+#num{
+    border: none;
+    border-radius: none;
+}
